@@ -1,0 +1,17 @@
+.hed {
+  margin: 10px auto;
+  max-width: 1284px;
+  height: 50px;
+}
+
+.hed h1 {
+  color: black;
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+.hed p {
+  font-size: 1.5rem;
+  color: gray;
+  margin-top: -20px;
+}

@@ -1,0 +1,63 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 180px 210px;
+  width: 1250px;
+  /* border: 1px solid red; */
+}
+
+.main .left {
+  width: 50%;
+  align-items: center;
+  /* border: 3px solid red; */
+}
+
+.left .btn {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  align-items: center;
+}
+
+
+
+.btn button .svg {
+  margin-right: 10px;
+  font-size: 25px;
+}
+
+
+form div {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+}
+
+form div input {
+  height: 40px;
+  padding: 0 10px;
+}
+
+textarea {
+  padding: 10px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+form div label {
+  font-size: 20px;
+  padding: 8px;
+}
+
+.main .right {
+  width: 50%;
+  /* border: 1px solid black; */
+}
+
+.main .right img {
+  width: 550px;
+  height: 550px;
+  margin-left: 40px;
+}
